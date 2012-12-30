@@ -1,0 +1,8 @@
+[
+    {
+        "caption": "List Open Files in Current Window", "command": "list_open_files", "args": {"source":"active_window"}
+    },
+    {
+        "caption": "List Open Files in All Windows",    "command": "list_open_files", "args": {"source":"all_windows"}
+    }
+]
